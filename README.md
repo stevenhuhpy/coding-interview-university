@@ -1,4 +1,4 @@
-# What and How to Learn from This Repo
+# How to
 
 - Resume first. 
 
@@ -20,3 +20,7 @@
 - Use YouTube or Pluralsight videos to make learning more easier.
 
 - Better learn through topics, not books. Because you don't have much time and it will be more fulfilling.
+
+## Origin README of Coding Interview University
+
+Guideline-Topics.md
