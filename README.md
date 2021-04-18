@@ -1,8 +1,8 @@
 # How to
 
 - Resume first. 
-
-  - Select companys you prefer to go and then select one or two positions for each company. Write the resume according to the requirements.
+  - Write a common resume that contains the topics that you think is important and interested.
+  - *Select companys you prefer to go and then select one or two positions for each company. Write the resume according to the requirements.
   - Create sub folders for each company-resume. 
   - Add or Link knowledge to each resume where you mentioned them.
 
