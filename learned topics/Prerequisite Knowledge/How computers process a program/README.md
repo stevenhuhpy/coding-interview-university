@@ -1,4 +1,6 @@
-# How CPU executes a program
+# How computers process a program
+
+## How CPU executes a program
 
 > Source: https://www.youtube.com/watch?v=XM4lGflQFvA
 
@@ -11,3 +13,6 @@ Reviewed at:
 ---
 
 ![](images/how_cpu_excute_program_01.jpg)
+
+---
+
