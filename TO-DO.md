@@ -18,3 +18,5 @@
 - Leetcode canbe the source of the code interview questions.
 
 - Use YouTube or Pluralsight videos to make learning more easier.
+
+- Better learn through topics, not books. Because you don't have much time and it will be more fulfilling.
