@@ -76,7 +76,7 @@ If you have a better recommendation for C++, please let me know. Looking for a c
             you'll quickly get proficient. Understanding C helps you understand how programs and memory work
         - [Answers to questions](https://github.com/lekkas/c-algorithms)
 
-- [ ] **How computers process a program:**
+- [x] **How computers process a program:**
     - [x] [How CPU executes a program (video)](https://www.youtube.com/watch?v=Z5JC9Ve1sfI)
     - [x] [How computers calculate - ALU (video)](https://youtu.be/1I5ZMmrOfnA)
     - [x] [Registers and RAM (video)](https://youtu.be/fpnE6UAfbtU)
