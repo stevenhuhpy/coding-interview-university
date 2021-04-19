@@ -1,11 +1,13 @@
 ## Prerequisite Knowledge
 
+<!-- 
 - [ ] **Learn C**
     - C is everywhere. You'll see examples in books, lectures, videos, *everywhere* while you're studying
     - [ ] [The C Programming Language, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
         - This is a short book, but it will give you a great handle on the C language and if you practice it a little
             you'll quickly get proficient. Understanding C helps you understand how programs and memory work
         - [Answers to questions](https://github.com/lekkas/c-algorithms)
+-->
 
 - [x] **How computers process a program:**
     - [x] [How CPU executes a program (video)](https://www.youtube.com/watch?v=Z5JC9Ve1sfI)
