@@ -34,6 +34,12 @@ class Vector
 public:
     void Vector(int capacity)
     {
+       if (capacity < 1) {                                                <- !!! Missing !!!    
+           std::cout << "Cannot make vector of that size" << std::endl;   <- !!! Missing !!!    
+           exit(EXIT_FAILURE);                                            <- !!! Missing !!!                        
+       }                                                                  <- !!! Missing !!!            
+
+        //!!! should limit by a min capacity, for example the inputs is 1. then the array is mostly will be resized.
         array = new int[capacity];
         vecCapacity = capacity;
     }
@@ -82,12 +88,15 @@ public:
 
         LargeCapacity();
 
-        for(int i = size; i > index;i++)
+
+        for(int i = size; i > index;i++)// !!! should be i--
         {
             *(array+i) = *(array + i -1);
         }
 
         *(array + index) = item;
+
+        //!!! size ++ ?
     }
 
     void prepend(int item)
@@ -97,6 +106,7 @@ public:
 
     int pop()
     {
+        //!!! what if size ==0 ?;
         delete(size-1);
         if(4 * size <= capacity)
         {
@@ -118,6 +128,7 @@ public:
         size -= 1;
     }
 
+    ///!!! reuse delete() ?
     void remove(int item)
     {
         int *indexArray = new int[size];
@@ -178,6 +189,7 @@ public:
         return -1;
     }
 
+    ///!!! how about case for decreaseSize?
     void resize(int new_capacity)
     {
         if(new_capacity < size)
