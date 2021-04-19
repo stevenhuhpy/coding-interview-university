@@ -25,4 +25,7 @@
 
 ## Origin README of Coding Interview University
 
-TThe origin post is moved to README-Original.md and seperated into single files for each topic.
+TThe origin post is moved to README-Original.md and seperated into single files for each topic. 
+
+Filename formats:
+topic[learning order][reviewed counts].md
